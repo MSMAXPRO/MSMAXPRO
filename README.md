@@ -21,5 +21,5 @@ I am a passionate **Python Developer** and **Web Enthusiast**. I love building t
 <p align="center">
   <a href="https://codewithmsmaxpro.me">Website</a> • 
   <a href="https://msmaxpro-toolkit.tech">Toolkit</a> • 
-  <a href="mailto:your-email@example.com">Email Me</a>
+  <a href="mailto: hsmaxpro366@gmail.com">Email Me</a>
 </p>
