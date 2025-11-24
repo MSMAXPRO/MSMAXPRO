@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there 👋, I'm MSMAXPRO
 
-<!--
-**MSMAXPRO/MSMAXPRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Python Developer** and **Web Enthusiast**. I love building tools that solve real-world problems and make life easier for developers.
 
-Here are some ideas to get you started:
+### 🌟 What I Have Achieved
+- 🛠️ Creator of **[MsMaxPro Toolkit](https://msmaxpro-toolkit.tech)** - A hub for developer utilities.
+- 📚 Founder of **[CodeWithMsMaxPro](https://codewithmsmaxpro.me)** - Coding tutorials and resources.
+- 🚀 Experienced in **SEO** & **Python Automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
+
+### 📊 GitHub Stats
+(https://github-readme-stats.vercel.app/api?username=MSMAXPRO&show_icons=true&theme=radical)
+
+<p align="center">
+  <a href="https://codewithmsmaxpro.me">Website</a> • 
+  <a href="https://msmaxpro-toolkit.tech">Toolkit</a> • 
+  <a href="mailto:your-email@example.com">Email Me</a>
+</p>
