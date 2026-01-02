@@ -4,143 +4,119 @@
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+<!-- ================= ABOUT / THEORY ================= -->
 
-<h1 style="color:#00b4d8;">🛡️ MISSION PROFILE</h1>
+<h1 style="color:#00b4d8;">👋 WHO AM I?</h1>
 
-<p style="color:#caf0f8; font-size:1.15em; line-height:1.7;">
+<p style="color:#caf0f8; font-size:1.15em; line-height:1.8; max-width:900px;">
 I am <b>MSMAXPRO</b>, a <b>self-taught Python & Web Developer</b>.  
-Coding is not my degree — it is my <b>passion</b>.
-
-I build <b>Telegram Bots, Automation Tools, and Web Projects</b> that focus on
-<b>privacy, security, and real-world usefulness</b>.
+I do not come from a Computer Science background — coding is my <b>hobby, skill, and long-term career goal</b>.
 </p>
 
-<img src="https://img.shields.io/badge/Status-Building_Actively-success?style=for-the-badge&logo=rocket">
-<img src="https://img.shields.io/badge/Focus-Privacy_&_Automation-blue?style=for-the-badge&logo=shield">
+<p style="color:#ade8f4; max-width:900px;">
+My learning approach is simple:  
+<b>build real things, break them, fix them, and improve them.</b>  
+Instead of just writing theory, I focus on creating <b>usable bots, tools, and websites</b>
+that solve real problems for real users.
+</p>
 
-</td>
+<hr style="border:1px solid #00b4d8; max-width:900px;">
 
-<td width="40%" align="right">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"
-style="filter: drop-shadow(0 0 10px #00b4d8);" />
-</td>
-</tr>
-</table>
+<!-- ================= HOW I WORK / THEORY ================= -->
 
-<hr style="border:1px solid #00b4d8;">
+<h2 style="color:#90e0ef;">🧠 HOW I BUILD PROJECTS</h2>
 
-<h2 style="color:#90e0ef;">🤖 DEPLOYED TELEGRAM BOT SYSTEMS</h2>
+<p style="color:#ade8f4; max-width:900px; line-height:1.7;">
+Every project I create follows a clear workflow:
+</p>
 
-<!-- Privacy Mail Bot -->
-<div style="background:#03045e; border-radius:15px; padding:25px; border:2px solid #00b4d8; margin-bottom:18px;">
-<table width="100%">
-<tr>
-<td>
+<p style="color:#caf0f8; max-width:900px; line-height:1.8;">
+🔹 <b>Problem Identification</b> – Find a real issue (privacy, automation, productivity).<br>
+🔹 <b>Planning</b> – Decide logic, data flow, and tools.<br>
+🔹 <b>Development</b> – Python-based backend, clean logic, modular code.<br>
+🔹 <b>Deployment</b> – Host on cloud platforms like Render.<br>
+🔹 <b>Iteration</b> – Improve speed, security, and usability.
+</p>
+
+<hr style="border:1px solid #00b4d8; max-width:900px;">
+
+<!-- ================= BOT THEORY ================= -->
+
+<h2 style="color:#90e0ef;">🤖 TELEGRAM BOT ECOSYSTEM</h2>
+
+<p style="color:#ade8f4; max-width:900px; line-height:1.7;">
+Telegram bots are my core strength.  
+I design bots that are:
+</p>
+
+<p style="color:#caf0f8; max-width:900px; line-height:1.8;">
+✔ Fast & lightweight<br>
+✔ Privacy-focused<br>
+✔ Scalable using MongoDB<br>
+✔ Deployed on cloud infrastructure
+</p>
+
+<!-- BOT CARDS -->
+
+<div style="background:#03045e; border-radius:15px; padding:25px; border:2px solid #00b4d8; margin-bottom:18px; max-width:900px;">
 <h3 style="color:#caf0f8;">🔐 Privacy Mail Bot</h3>
 <p style="color:#ade8f4;">
-Generate temporary private email addresses directly inside Telegram.  
-Protects identity, prevents spam, and provides a live inbox experience.
+This bot allows users to generate temporary email addresses inside Telegram.
+It helps protect identity, avoid spam, and maintain online privacy.
 </p>
-</td>
-<td align="right">
 <a href="https://t.me/privacymailbot">
 <img src="https://img.shields.io/badge/LAUNCH-TELEGRAM-26A5E4?style=for-the-badge&logo=telegram">
 </a>
-</td>
-</tr>
-</table>
 </div>
 
-<!-- Todo Bot -->
-<div style="background:#03045e; border-radius:15px; padding:25px; border:2px solid #00b4d8; margin-bottom:18px;">
-<table width="100%">
-<tr>
-<td>
-<h3 style="color:#caf0f8;">✅ Ultimate Todo Bot</h3>
+<div style="background:#03045e; border-radius:15px; padding:25px; border:2px solid #00b4d8; margin-bottom:18px; max-width:900px;">
+<h3 style="color:#caf0f8;">🔗 Link Scanner & Unshortener</h3>
 <p style="color:#ade8f4;">
-Manage daily tasks, track productivity, and organize work directly inside Telegram.
+This bot expands shortened URLs and checks for malicious or phishing links.
+It is designed to improve security and trust while browsing links.
 </p>
-</td>
-<td align="right">
-<a href="https://t.me/TodoUltimateBot">
-<img src="https://img.shields.io/badge/LAUNCH-TELEGRAM-26A5E4?style=for-the-badge&logo=telegram">
-</a>
-</td>
-</tr>
-</table>
-</div>
-
-<!-- Calculator Bot -->
-<div style="background:#03045e; border-radius:15px; padding:25px; border:2px solid #00b4d8; margin-bottom:18px;">
-<table width="100%">
-<tr>
-<td>
-<h3 style="color:#caf0f8;">🧮 Simple Calculator Bot</h3>
-<p style="color:#ade8f4;">
-Perform quick and simple calculations inside Telegram with zero clutter.
-</p>
-</td>
-<td align="right">
-<a href="https://t.me/BasicSimpleCalculatorbot">
-<img src="https://img.shields.io/badge/LAUNCH-TELEGRAM-26A5E4?style=for-the-badge&logo=telegram">
-</a>
-</td>
-</tr>
-</table>
-</div>
-
-<!-- Link Scanner -->
-<div style="background:#03045e; border-radius:15px; padding:25px; border:2px solid #00b4d8;">
-<table width="100%">
-<tr>
-<td>
-<h3 style="color:#caf0f8;">🔗 Link Scanner & Unshortener Bot</h3>
-<p style="color:#ade8f4;">
-Unshortens URLs, scans for phishing or malicious links, and improves online safety.
-</p>
-</td>
-<td align="right">
 <a href="https://t.me/MSMAXPROUnshortenerbot">
 <img src="https://img.shields.io/badge/LAUNCH-TELEGRAM-26A5E4?style=for-the-badge&logo=telegram">
 </a>
-</td>
-</tr>
-</table>
 </div>
 
-<br>
+<hr style="border:1px solid #00b4d8; max-width:900px;">
 
-<h2 style="color:#90e0ef;">🛠️ TECHNOLOGICAL ARSENAL</h2>
+<!-- ================= TECH THEORY ================= -->
+
+<h2 style="color:#90e0ef;">🛠️ TECHNOLOGY PHILOSOPHY</h2>
+
+<p style="color:#ade8f4; max-width:900px; line-height:1.7;">
+I prefer technologies that are:
+</p>
+
+<p style="color:#caf0f8; max-width:900px; line-height:1.8;">
+✔ Simple to maintain<br>
+✔ Powerful enough to scale<br>
+✔ Widely supported by the community
+</p>
+
+<p style="color:#ade8f4; max-width:900px;">
+That is why I mainly use Python for logic, MongoDB for data,
+and web technologies for interfaces.
+</p>
+
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,react,mongodb,flask,git,github,vscode&theme=dark">
 
-<br><br>
+<hr style="border:1px solid #00b4d8; max-width:900px;">
 
-<h2 style="color:#90e0ef;">🌐 MY PLATFORMS</h2>
+<!-- ================= GOALS ================= -->
 
-<a href="https://codewithmsmaxpro.me">
-<img src="https://img.shields.io/badge/Website-CodeWithMSMAXPRO-blue?style=for-the-badge&logo=google-chrome">
-</a>
+<h2 style="color:#90e0ef;">🎯 CURRENT GOALS</h2>
 
-<a href="https://msmaxpro-toolkit.tech">
-<img src="https://img.shields.io/badge/Toolkit-MSMAXPRO-red?style=for-the-badge&logo=tools">
-</a>
+<p style="color:#caf0f8; max-width:900px; line-height:1.8;">
+• Improve backend architecture<br>
+• Build larger real-world systems<br>
+• Contribute to open-source<br>
+• Get internship / job / freelance opportunities
+</p>
 
-<br><br>
-
-<h2 style="color:#90e0ef;">📢 TELEGRAM CHANNELS</h2>
-
-<a href="https://t.me/CodeWithMSMAXPRO">
-<img src="https://img.shields.io/badge/Coding_Channel-CodeWithMSMAXPRO-26A5E4?style=for-the-badge&logo=telegram">
-</a>
-
-<a href="https://t.me/MSMAXPROTooLs">
-<img src="https://img.shields.io/badge/Tools_Channel-MSMAXPROTools-222222?style=for-the-badge&logo=telegram">
-</a>
-
-<br><br>
+<!-- ================= STATS ================= -->
 
 <h2 style="color:#90e0ef;">📊 SYSTEM ANALYTICS</h2>
 
@@ -148,11 +124,6 @@ Unshortens URLs, scans for phishing or malicious links, and improves online safe
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSMAXPRO&layout=compact&theme=tokyonight&hide_border=true" height="180">
 
 <br><br>
-
-<h3 style="color:#caf0f8;">🎯 OPEN FOR</h3>
-<p style="color:#ade8f4;">
-Internships • Jobs • Freelancing • Collaborations
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%">
 
