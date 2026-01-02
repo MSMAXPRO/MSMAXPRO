@@ -1,68 +1,74 @@
 <div align="center">
-  <div style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 20px; padding: 40px; border: 2px solid #38bdf8; box-shadow: 0 0 20px rgba(56, 189, 248, 0.3); color: white;">
-    <h1 style="color: #38bdf8; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-bottom: 10px;">👋 Hi there, I’m MSMAXPRO 🚀</h1>
-    <p style="font-size: 1.2em; font-weight: 500;">🐍 Python Developer | 🌐 Web Developer | 🤖 Bot & Tool Builder</p>
-    <div style="margin-top: 20px;">
-       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-       <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-    </div>
+
+<div style="background: linear-gradient(135deg, #000428 0%, #004e92 100%); border-radius: 20px; padding: 50px 20px; border: 2px solid #38bdf8; box-shadow: 0 10px 30px rgba(56, 189, 248, 0.4); margin-bottom: 25px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=👋+HI,+I+AM+MSMAXPRO;PYTHON+DEVELOPER;BOT+%26+TOOL+BUILDER;WEB+ENTHUSIAST" alt="Typing SVG" />
+  <p style="color: #e2e8f0; font-size: 1.1em; letter-spacing: 1px; margin-top: 15px;">
+    Learning • Building • Improving — Every Single Day
+  </p>
+  <div style="margin-top: 25px;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  </div>
+</div>
+
+<div style="background: rgba(15, 23, 42, 0.9); border: 1px solid #38bdf8; border-radius: 15px; padding: 30px; margin-bottom: 25px; text-align: left;">
+  <h2 style="color: #38bdf8; border-bottom: 2px solid #38bdf8; display: inline-block; padding-bottom: 5px; margin-bottom: 15px;">🧠 ABOUT THE DEVELOPER</h2>
+  <p style="color: #cbd5e1; line-height: 1.8; font-size: 1.05em;">
+    I’m a passionate <b>self-taught Python Developer</b>. Coding isn't just a subject for me; it's a hobby and a skill I live by ❤️. I specialize in building <b>high-performance Telegram Bots</b> and <b>Automation Tools</b> that solve real-world problems.
+  </p>
+</div>
+
+<h2 style="color: #38bdf8; margin-bottom: 20px;">🤖 FEATURED TELEGRAM BOTS</h2>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <div style="flex: 1; min-width: 280px; background: #1e293b; border-radius: 15px; padding: 20px; border: 1px solid #334155; transition: 0.3s; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+    <h3 style="color: #38bdf8; margin-bottom: 10px;">🔐 Privacy Mail Bot</h3>
+    <p style="color: #94a3b8; font-size: 0.95em; margin-bottom: 15px;">Temporary encrypted emails with live intercept system.</p>
+    <a href="https://t.me/privacymailbot" style="background: #38bdf8; color: #0f172a; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.8em;">LAUNCH BOT</a>
   </div>
 
-  <br>
-
-  <table width="100%" border="0" cellspacing="0" cellpadding="10" style="background-color: #0f172a; border-radius: 15px; border: 1px solid #1e293b;">
-    <tr>
-      <td width="50%" style="padding: 20px; vertical-align: top;">
-        <h2 style="color: #38bdf8; border-bottom: 2px solid #38bdf8; padding-bottom: 5px;">🧠 About Me</h2>
-        <p style="color: #cbd5e1; line-height: 1.6;">
-          I’m a passionate self-taught Python Developer & Web Enthusiast. Although I’m not from a CS background, coding is my hobby, skill, and passion ❤️
-        </p>
-        <ul style="color: #cbd5e1; list-style-type: '⚡ ';">
-          <li>Building 🤖 Telegram Bots</li>
-          <li>🛠️ Automation Tools</li>
-          <li>🌐 Useful Web Applications</li>
-        </ul>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/MSMAXPRO/MSMAXPRO/main/tech-character.png" alt="Tech Light Character" width="250" style="filter: drop-shadow(0 0 10px #38bdf8);" />
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <h2 style="color: #38bdf8;">🤖 My Telegram Bot Projects</h2>
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
-    <div style="background: #1e293b; padding: 20px; border-radius: 15px; border-left: 5px solid #38bdf8; text-align: left;">
-      <h3 style="color: #38bdf8; margin-top: 0;">🔐 Privacy Mail Bot</h3>
-      <p style="color: #94a3b8; font-size: 0.9em;">Temporary emails, spam protection, live inbox.</p>
-      <a href="https://t.me/privacymailbot" style="color: #38bdf8; text-decoration: none; font-weight: bold;">@privacymailbot 🔗</a>
-    </div>
-    <div style="background: #1e293b; padding: 20px; border-radius: 15px; border-left: 5px solid #38bdf8; text-align: left;">
-      <h3 style="color: #38bdf8; margin-top: 0;">🧾 Ultimate Todo Bot</h3>
-      <p style="color: #94a3b8; font-size: 0.9em;">Task management, reminders, productivity.</p>
-      <a href="https://t.me/TodoUltimateBot" style="color: #38bdf8; text-decoration: none; font-weight: bold;">@TodoUltimateBot 🔗</a>
-    </div>
+  <div style="flex: 1; min-width: 280px; background: #1e293b; border-radius: 15px; padding: 20px; border: 1px solid #334155; transition: 0.3s; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+    <h3 style="color: #38bdf8; margin-bottom: 10px;">🚫 Restricted Saver</h3>
+    <p style="color: #94a3b8; font-size: 0.95em; margin-bottom: 15px;">Advanced media/text bypass bot with batch mode.</p>
+    <a href="https://t.me/MSMAXPROUnshortenerbot" style="background: #38bdf8; color: #0f172a; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.8em;">LAUNCH BOT</a>
   </div>
 
-  <br>
+</div>
 
-  <div style="background: #0f172a; border-radius: 15px; padding: 25px; border: 1px dashed #38bdf8;">
-    <h3 style="color: #38bdf8;">🌐 Platforms & Communities</h3>
-    <a href="https://t.me/MSMAXPROTooLs" style="margin: 5px; display: inline-block;"><img src="https://img.shields.io/badge/MSMAXPRO%20Tools-Blue?style=flat-square&logo=telegram" /></a>
-    <a href="https://t.me/CodeWithMSMAXPRO" style="margin: 5px; display: inline-block;"><img src="https://img.shields.io/badge/Code%20With%20MSMAXPRO-Blue?style=flat-square&logo=telegram" /></a>
+<br>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="flex: 1; min-width: 280px; background: #1e293b; border-radius: 15px; padding: 20px; border: 1px solid #334155; transition: 0.3s; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+    <h3 style="color: #38bdf8; margin-bottom: 10px;">🧾 Todo Ultimate</h3>
+    <p style="color: #94a3b8; font-size: 0.95em; margin-bottom: 15px;">Productivity manager with reminders and DB sync.</p>
+    <a href="https://t.me/TodoUltimateBot" style="background: #38bdf8; color: #0f172a; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.8em;">LAUNCH BOT</a>
   </div>
 
-  <br>
-
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MSMAXPRO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSMAXPRO&layout=compact&theme=tokyonight" />
+  <div style="flex: 1; min-width: 280px; background: #1e293b; border-radius: 15px; padding: 20px; border: 1px solid #334155; transition: 0.3s; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+    <h3 style="color: #38bdf8; margin-bottom: 10px;">🧮 Fast Calculator</h3>
+    <p style="color: #94a3b8; font-size: 0.95em; margin-bottom: 15px;">Scientific calculations directly within Telegram chats.</p>
+    <a href="https://t.me/BasicSimpleCalculatorbot" style="background: #38bdf8; color: #0f172a; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 0.8em;">LAUNCH BOT</a>
   </div>
+</div>
 
-  <br>
+<br>
 
-  <p style="color: #64748b;">🎯 <b>Open to:</b> Internships • Freelancing • Collaborations</p>
-  <p style="color: #38bdf8; font-weight: bold;">🚀 Learning • Building • Improving — every single day</p>
+<div style="background: rgba(56, 189, 248, 0.05); border-radius: 20px; padding: 30px; border: 1px dashed #38bdf8;">
+  <h2 style="color: #38bdf8; margin-bottom: 20px;">📊 SYSTEM ANALYTICS</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=MSMAXPRO&show_icons=true&theme=tokyonight&border_color=38bdf8&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSMAXPRO&layout=compact&theme=tokyonight&border_color=38bdf8&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1" width="300" />
+  
+  <div style="margin-top: 25px;">
+    <h3 style="color: #cbd5e1;">📬 LET'S CONNECT</h3>
+    <a href="https://t.me/CodeWithMSMAXPRO"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="https://github.com/MSMAXPRO"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </div>
+</div>
+
+<br>
+
+<p style="color: #38bdf8; font-family: monospace; font-size: 1.1em;">🚀 <b>Learning • Building • Improving</b> — every single day</p>
+
 </div>
