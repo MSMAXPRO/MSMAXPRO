@@ -1,130 +1,135 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=260&section=header&text=MSMAXPRO%20SYSTEMS&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20Web%20Developer%20|%20Bot%20Architect&descSize=24&descAlignY=60" width="100%" />
+<!-- Custom Developer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=MSMAXPRO&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20|%20Python%20Developer%20|%20Telegram%20Bot%20Creator&descAlignY=51&descAlign=50"/>
 
-<br>
-
-<!-- ================= ABOUT / THEORY ================= -->
-
-<h1 style="color:#00b4d8;">👋 WHO AM I?</h1>
-
-<p style="color:#caf0f8; font-size:1.15em; line-height:1.8; max-width:900px;">
-I am <b>MSMAXPRO</b>, a <b>self-taught Python & Web Developer</b>.  
-I do not come from a Computer Science background — coding is my <b>hobby, skill, and long-term career goal</b>.
-</p>
-
-<p style="color:#ade8f4; max-width:900px;">
-My learning approach is simple:  
-<b>build real things, break them, fix them, and improve them.</b>  
-Instead of just writing theory, I focus on creating <b>usable bots, tools, and websites</b>
-that solve real problems for real users.
-</p>
-
-<hr style="border:1px solid #00b4d8; max-width:900px;">
-
-<!-- ================= HOW I WORK / THEORY ================= -->
-
-<h2 style="color:#90e0ef;">🧠 HOW I BUILD PROJECTS</h2>
-
-<p style="color:#ade8f4; max-width:900px; line-height:1.7;">
-Every project I create follows a clear workflow:
-</p>
-
-<p style="color:#caf0f8; max-width:900px; line-height:1.8;">
-🔹 <b>Problem Identification</b> – Find a real issue (privacy, automation, productivity).<br>
-🔹 <b>Planning</b> – Decide logic, data flow, and tools.<br>
-🔹 <b>Development</b> – Python-based backend, clean logic, modular code.<br>
-🔹 <b>Deployment</b> – Host on cloud platforms like Render.<br>
-🔹 <b>Iteration</b> – Improve speed, security, and usability.
-</p>
-
-<hr style="border:1px solid #00b4d8; max-width:900px;">
-
-<!-- ================= BOT THEORY ================= -->
-
-<h2 style="color:#90e0ef;">🤖 TELEGRAM BOT ECOSYSTEM</h2>
-
-<p style="color:#ade8f4; max-width:900px; line-height:1.7;">
-Telegram bots are my core strength.  
-I design bots that are:
-</p>
-
-<p style="color:#caf0f8; max-width:900px; line-height:1.8;">
-✔ Fast & lightweight<br>
-✔ Privacy-focused<br>
-✔ Scalable using MongoDB<br>
-✔ Deployed on cloud infrastructure
-</p>
-
-<!-- BOT CARDS -->
-
-<div style="background:#03045e; border-radius:15px; padding:25px; border:2px solid #00b4d8; margin-bottom:18px; max-width:900px;">
-<h3 style="color:#caf0f8;">🔐 Privacy Mail Bot</h3>
-<p style="color:#ade8f4;">
-This bot allows users to generate temporary email addresses inside Telegram.
-It helps protect identity, avoid spam, and maintain online privacy.
-</p>
-<a href="https://t.me/privacymailbot">
-<img src="https://img.shields.io/badge/LAUNCH-TELEGRAM-26A5E4?style=for-the-badge&logo=telegram">
+<!-- Profile View Counter -->
+<img src="https://komarev.com/ghpvc/?username=MSMAXPRO&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<a href="https://github.com/MSMAXPRO">
+  <img src="https://img.shields.io/github/followers/MSMAXPRO?style=for-the-badge&color=blueviolet&labelColor=1a1a1a" alt="GitHub followers" />
 </a>
-</div>
-
-<div style="background:#03045e; border-radius:15px; padding:25px; border:2px solid #00b4d8; margin-bottom:18px; max-width:900px;">
-<h3 style="color:#caf0f8;">🔗 Link Scanner & Unshortener</h3>
-<p style="color:#ade8f4;">
-This bot expands shortened URLs and checks for malicious or phishing links.
-It is designed to improve security and trust while browsing links.
-</p>
-<a href="https://t.me/MSMAXPROUnshortenerbot">
-<img src="https://img.shields.io/badge/LAUNCH-TELEGRAM-26A5E4?style=for-the-badge&logo=telegram">
-</a>
-</div>
-
-<hr style="border:1px solid #00b4d8; max-width:900px;">
-
-<!-- ================= TECH THEORY ================= -->
-
-<h2 style="color:#90e0ef;">🛠️ TECHNOLOGY PHILOSOPHY</h2>
-
-<p style="color:#ade8f4; max-width:900px; line-height:1.7;">
-I prefer technologies that are:
-</p>
-
-<p style="color:#caf0f8; max-width:900px; line-height:1.8;">
-✔ Simple to maintain<br>
-✔ Powerful enough to scale<br>
-✔ Widely supported by the community
-</p>
-
-<p style="color:#ade8f4; max-width:900px;">
-That is why I mainly use Python for logic, MongoDB for data,
-and web technologies for interfaces.
-</p>
-
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,react,mongodb,flask,git,github,vscode&theme=dark">
-
-<hr style="border:1px solid #00b4d8; max-width:900px;">
-
-<!-- ================= GOALS ================= -->
-
-<h2 style="color:#90e0ef;">🎯 CURRENT GOALS</h2>
-
-<p style="color:#caf0f8; max-width:900px; line-height:1.8;">
-• Improve backend architecture<br>
-• Build larger real-world systems<br>
-• Contribute to open-source<br>
-• Get internship / job / freelance opportunities
-</p>
-
-<!-- ================= STATS ================= -->
-
-<h2 style="color:#90e0ef;">📊 SYSTEM ANALYTICS</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=MSMAXPRO&show_icons=true&theme=tokyonight&hide_border=true" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSMAXPRO&layout=compact&theme=tokyonight&hide_border=true" height="180">
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%">
 
 </div>
+
+---
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Frontend+%26+Python+Developer;Telegram+Bot+Developer;Web+Development+Enthusiast;Learning+Cyber+Security+%26+App+Development" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+### 👨‍💻 ABOUT ME
+
+🎓 **Student | Self-Taught Developer (Non-CS Background)**  
+💻 **Primary Field:** Web Development & Telegram Bots  
+🐍 **Python Developer** with strong interest in automation  
+🤖 Created **5+ Telegram bots** used by real users  
+🌐 Passionate about **Frontend Development & Web Tools**  
+🔐 Exploring **Cyber Security & Ethical Hacking**  
+📱 Currently learning **App Development**  
+🔥 Coding is my **hobby, passion, and achievement**
+
+> *No degree defines my skills — consistency and curiosity do.*
+
+</div>
+
+---
+
+<div align="center">
+  <h3>🤖 TELEGRAM BOTS I BUILT</h3>
+</div>
+
+<div align="center">
+
+🔹 **@privacymailbot**  
+🔹 **@MSMAXPROUnshortenerbot**  
+🔹 **@Videozipconverterbot**  
+🔹 **@BasicSimpleCalculatorbot**  
+🔹 **@TodoUltimateBot**
+
+</div>
+
+---
+
+<div align="center">
+  <h3>🌐 MY WEBSITES</h3>
+</div>
+
+<div align="center">
+
+🔗 https://codewithmsmaxpro.me  
+🔗 https://msmaxpro-toolkit.tech  
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<div align="center">
+  <h2>📊 GITHUB STATS</h2>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MSMAXPRO&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=MSMAXPRO&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSMAXPRO&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<div align="center">
+  <h2>💻 SKILLS & TECHNOLOGIES</h2>
+</div>
+
+<div align="center">
+
+### 🔧 Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark"/>
+
+### ⚙️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,telegram&theme=dark"/>
+
+### 🌱 Currently Learning
+<img src="https://skillicons.dev/icons?i=react,flutter,android&theme=dark"/>
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<div align="center">
+  <h2>📈 CONTRIBUTION GRAPH</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSMAXPRO&theme=redical&hide_border=true&area=true"/>
+</div>
+
+---
+
+<div align="center">
+  <h3>🤝 LET'S CONNECT</h3>
+
+🌐 https://codewithmsmaxpro.me  
+🌐 https://msmaxpro-toolkit.tech  
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Made%20with-Python%20%26%20Passion-blueviolet?style=for-the-badge"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/main/bottom_header.svg"/>
