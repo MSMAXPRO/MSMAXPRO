@@ -1,115 +1,155 @@
 <div align="center">
+  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=180&section=header&text=MSMAXPRO&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20|%20Python%20Dev%20|%20Bot%20Creator&descAlignY=51&descAlign=50"/>
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=MSMAXPRO&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20|%20Python%20Developer%20|%20Telegram%20Bot%20Creator&descAlignY=52"/>
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=MSMAXPRO&style=for-the-badge&color=blueviolet" />
-
-<img src="https://img.shields.io/github/followers/MSMAXPRO?style=for-the-badge&color=blueviolet&labelColor=1a1a1a"/>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Frontend+%26+Python+Developer;Telegram+Bot+Developer;Web+Development+Enthusiast;Learning+Cyber+Security+%26+App+Development"/>
-</div>
-
----
-
-## 👨‍💻 ABOUT ME
-
-- 🎓 **Student | Self-Taught Developer (Non-CS Background)**
-- 💻 **Primary Field:** Web Development & Telegram Bots
-- 🐍 Python Developer focused on automation & bots
-- 🤖 Built **5+ Telegram bots** used by real users
-- 🌐 Frontend developer creating useful web tools
-- 🔐 Interested in **Cyber Security & Ethical Hacking**
-- 📱 Currently learning **App Development**
-- 🔥 Coding is my **hobby, passion, and biggest achievement**
-
-> **No degree defines my skills — learning & consistency do.**
-
----
-
-## 🤖 TELEGRAM BOTS I BUILT
-
-- 🔹 **@privacymailbot**
-- 🔹 **@MSMAXPROUnshortenerbot**
-- 🔹 **@Videozipconverterbot**
-- 🔹 **@BasicSimpleCalculatorbot**
-- 🔹 **@TodoUltimateBot**
-
----
-
-## 🌐 MY WEBSITES
-
-- 🔗 https://codewithmsmaxpro.me  
-- 🔗 https://msmaxpro-toolkit.tech  
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-## 📊 GITHUB STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MSMAXPRO&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=MSMAXPRO&theme=radical&hide_border=true" height="165"/>
-
+  <img src="https://komarev.com/ghpvc/?username=MSMAXPRO&color=0072ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/MSMAXPRO"><img src="https://img.shields.io/github/followers/MSMAXPRO?style=for-the-badge&color=0072ff&labelColor=1a1a1a" alt="GitHub followers" /></a>
+  <a href="https://github.com/MSMAXPRO"><img src="https://img.shields.io/github/stars/MSMAXPRO?style=for-the-badge&color=0072ff&labelColor=1a1a1a" alt="GitHub Stars" /></a>
+  
 </div>
 
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=0072FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile!;Frontend+Web+Developer;Python+Bot+Creator;Self-Taught+Programmer;Passionate+about+Cyber+Security" alt="Typing SVG" />
+  </a>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSMAXPRO&layout=compact&theme=radical&hide_border=true" height="165"/>
+<div align="center">
+  <a href="https://codewithmsmaxpro.me" target="_blank">
+    <img src="https://img.shields.io/badge/Website-CodeWithMSMAXPRO-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website 1" />
+  </a>
+  <a href="https://msmaxpro-toolkit.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Toolkit-MSMAXPRO_Toolkit-ff0055?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website 2" />
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
+
+<div align="center">
+  <h2><b>👨‍💻 ABOUT ME</b></h2>
+</div>
+
+<div align="center">
+  
+💻 **Frontend Developer & Python Enthusiast** known as **MSMAXPRO**
+
+🚀 Passionate about building **Telegram Bots** and **Web Applications**
+
+🎓 **Self-Taught Coder** - Coding is my hobby and I have achieved a lot through pure passion (Non-CS Background)
+
+🛡️ Interested in **Cyber Security** and **Ethical Hacking**
+
+📱 Currently learning **App Development** to expand my skillset
+
+🌱 Creator of **5+ Public Telegram Bots** serving many users
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<div align="center">
+  <h2><b>🤖 MY TELEGRAM BOTS</b></h2>
+  <p>Here are the bots I have developed using Python:</p>
+</div>
 
-## 💻 SKILLS & TECHNOLOGIES
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Bot Name</b></td>
+      <td align="center"><b>Link</b></td>
+    </tr>
+    <tr>
+      <td>🔒 Privacy Mail Bot</td>
+      <td><a href="https://t.me/privacymailbot">@privacymailbot</a></td>
+    </tr>
+    <tr>
+      <td>🔗 URL Unshortener</td>
+      <td><a href="https://t.me/MSMAXPROUnshortenerbot">@MSMAXPROUnshortenerbot</a></td>
+    </tr>
+    <tr>
+      <td>📹 Video Zip Converter</td>
+      <td><a href="https://t.me/Videozipconverterbot">@Videozipconverterbot</a></td>
+    </tr>
+    <tr>
+      <td>🧮 Simple Calculator</td>
+      <td><a href="https://t.me/BasicSimpleCalculatorbot">@BasicSimpleCalculatorbot</a></td>
+    </tr>
+     <tr>
+      <td>📝 Todo Ultimate Bot</td>
+      <td><a href="https://t.me/TodoUltimateBot">@TodoUltimateBot</a></td>
+    </tr>
+  </table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
+
+
+<div align="center">
+  <h2><b>📊 GITHUB STATS</b></h2>
+</div>
+
+<p align="center">
+  <a href="https://github.com/MSMAXPRO">
+    <img src="https://github-readme-stats.vercel.app/api?username=MSMAXPRO&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" height="165" />
+  </a>
+  <a href="https://github.com/MSMAXPRO">
+    <img src="https://streak-stats.demolab.com/?user=MSMAXPRO&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak Stats" height="165" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MSMAXPRO">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSMAXPRO&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" height="165" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
+
+<div align="center">
+  <h2><b>📈 CONTRIBUTION GRAPH</b></h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSMAXPRO&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="GitHub Activity Graph" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
+
+<div align="center">
+  <h2><b>💻 SKILLS & TECHNOLOGIES</b></h2>
+</div>
+
+<div align="center">
 
 ### 🔧 Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark&perline=9" />
 
-### ⚙️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark"/>
+### 🛠️ Tools & Hosting
+<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,replit&theme=dark&perline=9" />
 
-### 🌱 Currently Learning
-<img src="https://skillicons.dev/icons?i=react,flutter,android&theme=dark"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-## 📈 CONTRIBUTION GRAPH
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSMAXPRO&theme=redical&hide_border=true&area=true"/>
+  <h3>🤝 Let's Connect!</h3>
+  <p>Check out my websites or check my bots!</p>
+  
+  <a href="https://codewithmsmaxpro.me">
+    <img src="https://img.shields.io/badge/CodeWith-MSMAXPRO-0072ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  
+  <br/><br/>
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  
+  <br/><br/>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20Python-FF3C3C?style=for-the-badge" alt="Made with Love and Python" />
+  </p>
+  
+  <br/>
+  
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  
 </div>
-
----
-
-## 🤝 LET'S CONNECT
-
-- 🌐 https://codewithmsmaxpro.me  
-- 🌐 https://msmaxpro-toolkit.tech  
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Python%20%26%20Passion-blueviolet?style=for-the-badge"/>
-</div>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/main/bottom_header.svg"/>
