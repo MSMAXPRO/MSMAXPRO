@@ -10,16 +10,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=0072FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile!;Frontend+Web+Developer;Python+Bot+Creator;Self-Taught+Programmer;Passionate+about+Cyber+Security" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://codewithmsmaxpro.me" target="_blank">
-    <img src="https://img.shields.io/badge/Website-CodeWithMSMAXPRO-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website 1" />
-  </a>
-  <a href="https://msmaxpro-toolkit.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Toolkit-MSMAXPRO_Toolkit-ff0055?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website 2" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=0072FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile!;Building+Websites+&;Tools;Python+Bot+Developer;Self-Taught+Programmer;Passionate+about+Cyber+Security" alt="Typing SVG" />
   </a>
 </div>
 
@@ -33,50 +24,84 @@
   
 💻 **Frontend Developer & Python Enthusiast** known as **MSMAXPRO**
 
-🚀 Passionate about building **Telegram Bots** and **Web Applications**
+🚀 Passionate about building **Telegram Bots**, **Web Applications**, and **Useful Tools**.
 
-🎓 **Self-Taught Coder** - Coding is my hobby and I have achieved a lot through pure passion (Non-CS Background)
+🎓 **Self-Taught Coder** - I do not come from a CS background, but coding is my hobby and passion. I have learned everything through curiosity and practice.
 
-🛡️ Interested in **Cyber Security** and **Ethical Hacking**
+🛡️ Interest in **Cyber Security** and **Ethical Hacking**.
 
-📱 Currently learning **App Development** to expand my skillset
-
-🌱 Creator of **5+ Public Telegram Bots** serving many users
+📱 Currently learning **App Development** to expand my skillset.
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
 
 <div align="center">
+  <h2><b>🌐 MY LIVE WEBSITES</b></h2>
+  <p>Apart from bots, I build and maintain my own websites to provide tools and resources.</p>
+</div>
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🚀 CodeWithMSMAXPRO</h3>
+      <a href="https://codewithmsmaxpro.me">
+        <img src="https://img.shields.io/badge/VISIT-CodeWithMSMAXPRO.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
+      <br/><br/>
+      <p>My official coding hub and portfolio website.</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🛠️ MSMAXPRO Toolkit</h3>
+      <a href="https://msmaxpro-toolkit.tech">
+        <img src="https://img.shields.io/badge/VISIT-MSMAXPRO_Toolkit-ff0055?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
+      <br/><br/>
+      <p>A powerful collection of utility tools for developers and users.</p>
+    </td>
+  </tr>
+</table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
+
+<div align="center">
   <h2><b>🤖 MY TELEGRAM BOTS</b></h2>
-  <p>Here are the bots I have developed using Python:</p>
+  <p>I have created 5+ public Telegram bots using Python to solve real-world problems:</p>
 </div>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>Bot Name</b></td>
-      <td align="center"><b>Link</b></td>
+      <th align="center">Bot Name</th>
+      <th align="center">Description</th>
+      <th align="center">Link</th>
     </tr>
     <tr>
-      <td>🔒 Privacy Mail Bot</td>
-      <td><a href="https://t.me/privacymailbot">@privacymailbot</a></td>
+      <td>🔒 <b>Privacy Mail Bot</b></td>
+      <td>Generates temporary emails for privacy.</td>
+      <td><a href="https://t.me/privacymailbot">Start Bot ↗</a></td>
     </tr>
     <tr>
-      <td>🔗 URL Unshortener</td>
-      <td><a href="https://t.me/MSMAXPROUnshortenerbot">@MSMAXPROUnshortenerbot</a></td>
+      <td>🔗 <b>URL Unshortener</b></td>
+      <td>Reveals original links from shortened URLs.</td>
+      <td><a href="https://t.me/MSMAXPROUnshortenerbot">Start Bot ↗</a></td>
     </tr>
     <tr>
-      <td>📹 Video Zip Converter</td>
-      <td><a href="https://t.me/Videozipconverterbot">@Videozipconverterbot</a></td>
+      <td>📹 <b>Video Zip Converter</b></td>
+      <td>Converts video files to zip format easily.</td>
+      <td><a href="https://t.me/Videozipconverterbot">Start Bot ↗</a></td>
     </tr>
     <tr>
-      <td>🧮 Simple Calculator</td>
-      <td><a href="https://t.me/BasicSimpleCalculatorbot">@BasicSimpleCalculatorbot</a></td>
+      <td>🧮 <b>Simple Calculator</b></td>
+      <td>A fast and basic calculator within Telegram.</td>
+      <td><a href="https://t.me/BasicSimpleCalculatorbot">Start Bot ↗</a></td>
     </tr>
      <tr>
-      <td>📝 Todo Ultimate Bot</td>
-      <td><a href="https://t.me/TodoUltimateBot">@TodoUltimateBot</a></td>
+      <td>📝 <b>Todo Ultimate Bot</b></td>
+      <td>Advanced task manager to organize your day.</td>
+      <td><a href="https://t.me/TodoUltimateBot">Start Bot ↗</a></td>
     </tr>
   </table>
 </div>
@@ -118,11 +143,11 @@
 
 <div align="center">
 
-### 🔧 Languages
+### 🔧 Core Stack
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark&perline=9" />
 
-### 🛠️ Tools & Hosting
-<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,replit&theme=dark&perline=9" />
+### 🛠️ Development Tools
+<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,replit,cloudflare&theme=dark&perline=9" />
 
 </div>
 
@@ -132,10 +157,13 @@
 
 <div align="center">
   <h3>🤝 Let's Connect!</h3>
-  <p>Check out my websites or check my bots!</p>
+  <p>Check out my projects or ping me on Telegram!</p>
   
   <a href="https://codewithmsmaxpro.me">
-    <img src="https://img.shields.io/badge/CodeWith-MSMAXPRO-0072ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-CodeWithMSMAXPRO-0072ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+   <a href="mailto:contact@codewithmsmaxpro.me">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
   <br/><br/>
