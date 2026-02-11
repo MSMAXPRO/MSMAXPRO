@@ -83,26 +83,6 @@
       <td>Generates temporary emails for privacy.</td>
       <td><a href="https://t.me/privacymailbot">Start Bot ↗</a></td>
     </tr>
-    <tr>
-      <td>🔗 <b>URL Unshortener</b></td>
-      <td>Reveals original links from shortened URLs.</td>
-      <td><a href="https://t.me/MSMAXPROUnshortenerbot">Start Bot ↗</a></td>
-    </tr>
-    <tr>
-      <td>📹 <b>Video Zip Converter</b></td>
-      <td>Converts video files to zip format easily.</td>
-      <td><a href="https://t.me/Videozipconverterbot">Start Bot ↗</a></td>
-    </tr>
-    <tr>
-      <td>🧮 <b>Simple Calculator</b></td>
-      <td>A fast and basic calculator within Telegram.</td>
-      <td><a href="https://t.me/BasicSimpleCalculatorbot">Start Bot ↗</a></td>
-    </tr>
-     <tr>
-      <td>📝 <b>Todo Ultimate Bot</b></td>
-      <td>Advanced task manager to organize your day.</td>
-      <td><a href="https://t.me/TodoUltimateBot">Start Bot ↗</a></td>
-    </tr>
   </table>
 </div>
 
