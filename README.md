@@ -127,27 +127,32 @@
 
 <div align="center">
 
-<a href="https://github.com/MSMAXPRO/YOUR-REPO-NAME-1">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MSMAXPRO&repo=YOUR-REPO-NAME-1&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
+<div align="center">
+  <h2><b>📌 PINNED REPOSITORIES</b></h2>
+  <hr style="width:50%; border-top: 2px solid grey;" />
+</div>
+
+<div align="center">
+
+<a href="https://github.com/MSMAXPRO/MSMAXPRO-github.io">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MSMAXPRO&repo=MSMAXPRO-ToolKit&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
 </a>
-<a href="https://github.com/MSMAXPRO/YOUR-REPO-NAME-2">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MSMAXPRO&repo=YOUR-REPO-NAME-2&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
+<a href="https://github.com/MSMAXPRO/MSMAXPRO-Toolkit">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MSMAXPRO&repo=MSMAXPRO-Development-project-TooLS&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
 </a>
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/MSMAXPRO/YOUR-REPO-NAME-3">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MSMAXPRO&repo=YOUR-REPO-NAME-3&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
+<a href="https://github.com/MSMAXPRO/Telegram-Save-Restricted-Content-Bot">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MSMAXPRO&repo=Telegram-Save-Restricted-Content-Bot&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
 </a>
-<a href="https://github.com/MSMAXPRO/YOUR-REPO-NAME-4">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MSMAXPRO&repo=YOUR-REPO-NAME-4&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
+<a href="https://github.com/MSMAXPRO-Development-project-TooLS">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MSMAXPRO&repo=MSMAXPRO-Development-project-TooLS&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
 </a>
 
 </div>
-
-<br/>
 
 <div align="center">
   <h2><b>💻 SKILLS & TECHNOLOGIES</b></h2>
