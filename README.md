@@ -135,10 +135,10 @@
 <div align="center">
 
 <a href="https://github.com/MSMAXPRO/MSMAXPRO.github.io">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MSMAXPRO&repo=MSMAXPRO-ToolKit&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MSMAXPRO&repo=MSMAXPRO.github.io&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
 </a>
 <a href="https://github.com/MSMAXPRO/MSMAXPRO-Toolkit">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MSMAXPRO&repo=MSMAXPRO-Development-project-TooLS&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MSMAXPRO&repo=MSMAXPRO-ToolKit&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
 </a>
 
 </div>
