@@ -88,76 +88,104 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
 
-
 <div align="center">
   <h2><b>📊 GITHUB STATS</b></h2>
+  <hr style="width:50%; border-top: 2px solid grey;" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/MSMAXPRO">
-    <img src="https://github-readme-stats.vercel.app/api?username=MSMAXPRO&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" height="165" />
-  </a>
-  <a href="https://github.com/MSMAXPRO">
-    <img src="https://streak-stats.demolab.com/?user=MSMAXPRO&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak Stats" height="165" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSMAXPRO&theme=radical" alt="GitHub Profile Details" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/MSMAXPRO">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSMAXPRO&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" height="165" />
-  </a>
-</p>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
+<div align="center">
+  <img src="https://streak-stats.vercel.app/?user=MSMAXPRO&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MSMAXPRO&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" />
+</div>
+
+<br/>
 
 <div align="center">
   <h2><b>📈 CONTRIBUTION GRAPH</b></h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSMAXPRO&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="GitHub Activity Graph" />
+  <hr style="width:50%; border-top: 2px solid grey;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSMAXPRO&bg_color=0d1117&color=ffffff&line=FF3C3C&point=FF3C3C&area=true&area_color=FF3C3C&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="GitHub Activity Graph" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
+<br/>
+
+<div align="center">
+  <h2><b>📌 PINNED REPOSITORIES</b></h2>
+  <hr style="width:50%; border-top: 2px solid grey;" />
+  <p><i>(Edit the repo names below to match your actual repositories)</i></p>
+</div>
+
+<div align="center">
+
+<a href="https://github.com/MSMAXPRO/YOUR-REPO-NAME-1">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MSMAXPRO&repo=YOUR-REPO-NAME-1&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
+</a>
+<a href="https://github.com/MSMAXPRO/YOUR-REPO-NAME-2">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MSMAXPRO&repo=YOUR-REPO-NAME-2&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/MSMAXPRO/YOUR-REPO-NAME-3">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MSMAXPRO&repo=YOUR-REPO-NAME-3&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
+</a>
+<a href="https://github.com/MSMAXPRO/YOUR-REPO-NAME-4">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MSMAXPRO&repo=YOUR-REPO-NAME-4&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
+</a>
+
+</div>
+
+<br/>
 
 <div align="center">
   <h2><b>💻 SKILLS & TECHNOLOGIES</b></h2>
+  <hr style="width:50%; border-top: 2px solid grey;" />
 </div>
 
 <div align="center">
 
-### 🔧 Core Stack
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark&perline=9" />
+### 🔧 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,bash,html,css&theme=dark&perline=9" />
 
-### 🛠️ Development Tools
-<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,replit,cloudflare&theme=dark&perline=9" />
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,git,github,jenkins&theme=dark&perline=9" />
+
+### 🗄️ Databases & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,sqlite,vscode,vim,powershell,nginx&theme=dark&perline=9" />
+
+### 🎨 Design & Others
+<img src="https://skillicons.dev/icons?i=figma,photoshop,blender,ae,pr&theme=dark&perline=9" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
+<br/>
 
 ---
 
 <div align="center">
-  <h3>🤝 Let's Connect!</h3>
-  <p>Check out my projects or ping me on Telegram!</p>
+  <h3>🤝 Let's Connect & Collaborate!</h3>
+  <p>Feel free to reach out for collaborations, cybersecurity discussions, or just a friendly chat!</p>
   
-  <a href="https://codewithmsmaxpro.me">
-    <img src="https://img.shields.io/badge/Website-CodeWithMSMAXPRO-0072ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  <a href="mailto:abhinaireddy2244@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-   <a href="mailto:contact@codewithmsmaxpro.me">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
-  <br/><br/>
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
   
   <br/><br/>
   
   <p>
-    <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20Python-FF3C3C?style=for-the-badge" alt="Made with Love and Python" />
+    <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-FF3C3C?style=for-the-badge" alt="Made with Love and Coffee" />
   </p>
-  
-  <br/>
-  
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
   
 </div>
