@@ -126,13 +126,6 @@
 
 <div align="center">
 
-<div align="center">
-  <h2><b>📌 PINNED REPOSITORIES</b></h2>
-  <hr style="width:50%; border-top: 2px solid grey;" />
-</div>
-
-<div align="center">
-
 <a href="https://github.com/MSMAXPRO/MSMAXPRO.github.io">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MSMAXPRO&repo=MSMAXPRO.github.io&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
 </a>
