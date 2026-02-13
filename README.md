@@ -122,7 +122,6 @@
 <div align="center">
   <h2><b>📌 PINNED REPOSITORIES</b></h2>
   <hr style="width:50%; border-top: 2px solid grey;" />
-  <p><i>(Edit the repo names below to match your actual repositories)</i></p>
 </div>
 
 <div align="center">
