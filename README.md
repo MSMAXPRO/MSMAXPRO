@@ -83,6 +83,12 @@
       <td>Generates temporary emails for privacy.</td>
       <td><a href="https://t.me/privacymailbot">Start Bot ↗</a></td>
     </tr>
+    <tr>
+      <td>🔒 <b>Cloud Uploader Bot</b></td>
+      <td>Upload files to cloud with high speed.</td>
+      <td><a href="https://t.me/CloudUploaderRobot">Start Bot ↗</a></td>
+    </tr>
+    <tr>
   </table>
 </div>
 
