@@ -103,6 +103,11 @@
       <td>explore the universe with this bot.</td>
       <td><a href="https://t.me/ExovaBot">Start Bot ↗</a></td>
     </tr>
+    <tr>
+      <td>🔒 <b>MSMAXPRO Toolkit</b></td>
+      <td>Ultimate Toolkit for Developers.</td>
+      <td><a href="https://t.me/privacymailbot">Start Bot ↗</a></td>
+    </tr>
   </table>
 </div>
 
